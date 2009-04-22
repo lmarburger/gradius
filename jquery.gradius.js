@@ -69,7 +69,6 @@
 				// Coodinates taking the address provided in the location input, geocoding it,
 				// and plotting it on the map with a radius.
 				function draw() {
-					console.log("draw");
 					saveForm.addClass("loading");
 
 					var radiusVal = radiusInput.val();
