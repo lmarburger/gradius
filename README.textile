@@ -1,0 +1,9 @@
+h1. GRadius
+
+A simple and slightly opinionated jQuery plugin using Google Maps which allows a person to find a location and specify a radius. Useful for sites displaying location specific data.
+
+
+h2. License
+
+GRadius - Copyright(c) 2009 andCulture, Inc. Some rights reserved.
+Released under the Creative Commons Attribution 3.0 United States License
